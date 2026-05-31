@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=120&section=header" />
+<img width="100%" src="./assets/banner-dark-landscape.png" alt="Dark landscape banner" />
+
+<br>
 
 # Jhonatan Cisneros
 
@@ -155,6 +157,6 @@ Arquitectura        Separación de responsabilidades
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=footer" />
+<img width="100%" src="./assets/footer-dark-line.png" alt="Footer divider" />
 
 </div>
