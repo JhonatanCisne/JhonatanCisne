@@ -1,14 +1,5 @@
 <div align="center">
 
-<img 
-width="100%" 
-height="280" 
-src="./assets/banner-dark-landscape.jpg" 
-alt="Dark landscape banner"
-/>
-
-<br>
-
 <h1>Jhonatan Cisneros</h1>
 
 <h3>Full Stack Developer</h3>
@@ -20,13 +11,13 @@ alt="Dark landscape banner"
 <br>
 
 <a href="https://www.linkedin.com/in/cinerosjorgejhonataneduardo">
-  <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" />
+  <img height="34" src="https://img.shields.io/badge/LinkedIn-Jhonatan%20Cisneros-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:jhonatanjorge151@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=38bdf8" />
+  <img height="34" src="https://img.shields.io/badge/Email-jhonatanjorge151%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/JhonatanCisne">
-  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8" />
+  <img height="34" src="https://img.shields.io/badge/GitHub-JhonatanCisne-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -47,41 +38,41 @@ Trabajo principalmente con Java, Spring Boot, SQL y tecnologías frontend modern
 
 ### Backend
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img height="34" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img height="34" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img height="34" src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+<img height="34" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img height="34" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img height="34" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 
 ### Frontend
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img height="34" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img height="34" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img height="34" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img height="34" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 ### Mobile
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img height="34" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img height="34" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img height="34" src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 ### Bases de datos
 
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img height="34" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img height="34" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img height="34" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img height="34" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img height="34" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 
 ### Herramientas
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img height="34" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img height="34" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img height="34" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img height="34" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img height="34" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
 </div>
 
@@ -143,15 +134,15 @@ Trabajo principalmente con Java, Spring Boot, SQL y tecnologías frontend modern
 
 <div align="center">
 
-| Tecnología          | Enfoque                                |
-| :------------------ | :------------------------------------- |
-| Docker              | Contenedores y despliegue              |
-| Kubernetes          | Orquestación y servicios               |
-| Kafka               | Eventos, producers y consumers         |
-| Redis               | Cache y rendimiento                    |
-| MongoDB             | Persistencia documental                |
-| Arquitectura limpia | Reglas de negocio y desacoplamiento    |
-| Microservicios      | Servicios independientes e integración |
+| Tecnología          | Enfoque                                            |
+| :------------------ | :------------------------------------------------- |
+| Docker              | Contenedores, imágenes y despliegue                |
+| Kubernetes          | Orquestación, servicios y despliegues distribuidos |
+| Kafka               | Topics, producers, consumers y eventos             |
+| Redis               | Cache, sesiones y rendimiento                      |
+| MongoDB             | Persistencia documental                            |
+| Arquitectura limpia | Reglas de negocio y desacoplamiento                |
+| Microservicios      | Servicios independientes e integración             |
 
 </div>
 
@@ -181,10 +172,10 @@ Trabajo principalmente con Java, Spring Boot, SQL y tecnologías frontend modern
 <div align="center">
 
 <a href="https://www.linkedin.com/in/cinerosjorgejhonataneduardo">
-  <img src="https://img.shields.io/badge/LinkedIn-Jhonatan%20Cisneros-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" />
+  <img height="34" src="https://img.shields.io/badge/LinkedIn-Jhonatan%20Cisneros-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:jhonatanjorge151@gmail.com">
-  <img src="https://img.shields.io/badge/Email-jhonatanjorge151%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=38bdf8" />
+  <img height="34" src="https://img.shields.io/badge/Email-jhonatanjorge151%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
