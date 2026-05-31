@@ -2,10 +2,20 @@
 
 # Jhonatan Cisneros
 
-### Full Stack Developer | Java & Spring Boot
+### Full Stack Developer | Backend Java & Web Applications
 
-Desarrollador Full Stack enfocado en la construcción de aplicaciones web robustas, mantenibles y escalables.
-Mi principal línea de especialización está orientada al desarrollo backend con Java, Spring Boot, APIs REST, bases de datos relacionales y arquitectura de software.
+Desarrollador Full Stack con enfoque principal en backend, construcción de APIs, persistencia de datos e integración de aplicaciones web.
+Trabajo con tecnologías como Java, Spring Boot, bases de datos relacionales y frameworks modernos para frontend y desarrollo móvil.
+
+</div>
+
+<br>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=JhonatanCisne\&style=for-the-badge\&color=111827)
+![GitHub followers](https://img.shields.io/github/followers/JhonatanCisne?style=for-the-badge\&color=111827\&labelColor=111827)
+![GitHub User's stars](https://img.shields.io/github/stars/JhonatanCisne?style=for-the-badge\&color=111827\&labelColor=111827)
 
 </div>
 
@@ -13,13 +23,15 @@ Mi principal línea de especialización está orientada al desarrollo backend co
 
 ## Sobre mí
 
-Soy un desarrollador orientado a la ingeniería de software, con interés en la creación de soluciones empresariales bien estructuradas, seguras y preparadas para crecer.
+Soy desarrollador orientado a la creación de aplicaciones web con una estructura clara, lógica de negocio bien definida y una comunicación ordenada entre frontend, backend y base de datos.
 
-Trabajo principalmente en el desarrollo de aplicaciones backend, integración de servicios, diseño de APIs, persistencia de datos y construcción de interfaces web modernas. Mi objetivo es seguir fortaleciendo mi criterio técnico en arquitectura, buenas prácticas, escalabilidad y tecnologías utilizadas en entornos enterprise.
+Mi trabajo se centra principalmente en el desarrollo backend con Java y Spring Boot, el diseño de APIs REST, la gestión de datos con SQL y la integración de servicios. También desarrollo interfaces web y aplicaciones móviles cuando el proyecto lo requiere.
+
+Actualmente sigo fortaleciendo mis conocimientos en arquitectura de software, contenedores, mensajería, cache, despliegue de aplicaciones y buenas prácticas para sistemas mantenibles.
 
 ---
 
-## Stack principal
+## Stack técnico
 
 <div align="center">
 
@@ -28,13 +40,18 @@ Trabajo principalmente en el desarrollo de aplicaciones backend, integración de
 ![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge\&logo=openjdk\&logoColor=ED8B00)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-111827?style=for-the-badge\&logo=springboot\&logoColor=6DB33F)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-111827?style=for-the-badge\&logo=springsecurity\&logoColor=6DB33F)
-![REST API](https://img.shields.io/badge/REST%20API-111827?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge\&logo=python\&logoColor=3776AB)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge\&logo=fastapi\&logoColor=009688)
+![Django](https://img.shields.io/badge/Django-111827?style=for-the-badge\&logo=django\&logoColor=092E20)
+![REST API](https://img.shields.io/badge/REST%20API-111827?style=for-the-badge\&logo=postman\&logoColor=FF6C37)
 
 ### Bases de datos
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge\&logo=postgresql\&logoColor=4169E1)
 ![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge\&logo=mysql\&logoColor=4479A1)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-111827?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=CC2927)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge\&logo=mongodb\&logoColor=47A248)
+![Redis](https://img.shields.io/badge/Redis-111827?style=for-the-badge\&logo=redis\&logoColor=DC382D)
 
 ### Frontend
 
@@ -42,6 +59,11 @@ Trabajo principalmente en el desarrollo de aplicaciones backend, integración de
 ![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge\&logo=typescript\&logoColor=3178C6)
 ![Angular](https://img.shields.io/badge/Angular-111827?style=for-the-badge\&logo=angular\&logoColor=DD0031)
 ![React](https://img.shields.io/badge/React-111827?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+
+### Mobile
+
+![Flutter](https://img.shields.io/badge/Flutter-111827?style=for-the-badge\&logo=flutter\&logoColor=02569B)
+![Dart](https://img.shields.io/badge/Dart-111827?style=for-the-badge\&logo=dart\&logoColor=0175C2)
 ![React Native](https://img.shields.io/badge/React%20Native-111827?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
 ### Herramientas e infraestructura
@@ -50,6 +72,7 @@ Trabajo principalmente en el desarrollo de aplicaciones backend, integración de
 ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge\&logo=git\&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge\&logo=github\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge\&logo=linux\&logoColor=FCC624)
+![Postman](https://img.shields.io/badge/Postman-111827?style=for-the-badge\&logo=postman\&logoColor=FF6C37)
 
 </div>
 
@@ -59,75 +82,80 @@ Trabajo principalmente en el desarrollo de aplicaciones backend, integración de
 
 <table>
   <tr>
-    <td><strong>Backend</strong></td>
-    <td>APIs REST, lógica de negocio, seguridad, autenticación, autorización y servicios empresariales.</td>
+    <td width="180"><strong>Backend</strong></td>
+    <td>Desarrollo de APIs REST, lógica de negocio, autenticación, autorización, validaciones y servicios para aplicaciones web.</td>
   </tr>
   <tr>
-    <td><strong>Bases de datos</strong></td>
-    <td>Modelado relacional, consultas SQL, integridad de datos y persistencia con JPA/Hibernate.</td>
+    <td><strong>Persistencia</strong></td>
+    <td>Diseño de modelos relacionales, consultas SQL, integración con JPA/Hibernate y manejo de datos en PostgreSQL, MySQL y SQL Server.</td>
   </tr>
   <tr>
     <td><strong>Frontend</strong></td>
-    <td>Interfaces web modernas, consumo de APIs, componentes reutilizables y experiencia de usuario.</td>
+    <td>Construcción de interfaces web, consumo de APIs, manejo de formularios, estados de pantalla y componentes reutilizables.</td>
+  </tr>
+  <tr>
+    <td><strong>Mobile</strong></td>
+    <td>Desarrollo de aplicaciones móviles con Flutter, Dart y React Native, orientadas a consumo de servicios y flujos de usuario definidos.</td>
+  </tr>
+  <tr>
+    <td><strong>Infraestructura</strong></td>
+    <td>Uso de Docker, configuración de entornos, variables de entorno, despliegues básicos y administración inicial de servicios.</td>
   </tr>
   <tr>
     <td><strong>Arquitectura</strong></td>
-    <td>Separación de responsabilidades, mantenibilidad, escalabilidad progresiva y buenas prácticas.</td>
-  </tr>
-  <tr>
-    <td><strong>DevOps inicial</strong></td>
-    <td>Contenedores, despliegue de aplicaciones, configuración de entornos y automatización progresiva.</td>
+    <td>Organización de capas, separación de responsabilidades, diseño de módulos y reducción de acoplamiento en aplicaciones.</td>
   </tr>
 </table>
 
 ---
 
-## Enfoque profesional
+## Enfoque técnico
 
-```text
-Backend sólido        APIs claras y mantenibles
-Código limpio         Separación de responsabilidades
-Datos consistentes    Modelado y persistencia confiable
-Arquitectura          Escalabilidad progresiva
-Aprendizaje continuo  Tecnologías enterprise
-```
+<table>
+  <tr>
+    <th>Principio</th>
+    <th>Aplicación práctica</th>
+  </tr>
+  <tr>
+    <td><strong>Claridad</strong></td>
+    <td>Código organizado, nombres comprensibles y estructura fácil de mantener.</td>
+  </tr>
+  <tr>
+    <td><strong>Consistencia</strong></td>
+    <td>Uso de patrones similares en controladores, servicios, repositorios, DTOs y validaciones.</td>
+  </tr>
+  <tr>
+    <td><strong>Seguridad</strong></td>
+    <td>Autenticación, autorización, manejo de tokens y control de acceso según roles.</td>
+  </tr>
+  <tr>
+    <td><strong>Datos</strong></td>
+    <td>Modelos coherentes, relaciones claras, integridad referencial y consultas ajustadas al caso de uso.</td>
+  </tr>
+  <tr>
+    <td><strong>Mantenibilidad</strong></td>
+    <td>Separación entre reglas de negocio, acceso a datos, transporte HTTP y presentación.</td>
+  </tr>
+</table>
 
 ---
 
 ## Tecnologías en fortalecimiento
 
-Actualmente estoy profundizando en herramientas y prácticas orientadas al desarrollo de sistemas más escalables, distribuidos y preparados para producción.
+<div align="center">
 
-<table>
-  <tr>
-    <th>Tecnología / Área</th>
-    <th>Enfoque actual</th>
-  </tr>
-  <tr>
-    <td>Docker</td>
-    <td>Despliegue, contenedores y entornos reproducibles</td>
-  </tr>
-  <tr>
-    <td>Kubernetes</td>
-    <td>Orquestación de contenedores y arquitectura cloud native</td>
-  </tr>
-  <tr>
-    <td>Kafka</td>
-    <td>Mensajería, eventos y comunicación entre servicios</td>
-  </tr>
-  <tr>
-    <td>Redis</td>
-    <td>Cache, rendimiento y estructuras de datos en memoria</td>
-  </tr>
-  <tr>
-    <td>MongoDB</td>
-    <td>Persistencia NoSQL y modelos documentales</td>
-  </tr>
-  <tr>
-    <td>Arquitectura limpia</td>
-    <td>Diseño desacoplado, mantenibilidad y reglas de negocio protegidas</td>
-  </tr>
-</table>
+| Tecnología / Área   | Enfoque actual                                                                         |
+| :------------------ | :------------------------------------------------------------------------------------- |
+| Docker              | Contenedores, imágenes, variables de entorno y despliegues                             |
+| Kubernetes          | Conceptos de orquestación, servicios, pods y despliegue distribuido                    |
+| Kafka               | Comunicación basada en eventos, topics, producers y consumers                          |
+| Redis               | Cache, sesiones, estructuras en memoria y mejora de tiempos de respuesta               |
+| MongoDB             | Modelado documental y persistencia NoSQL                                               |
+| FastAPI             | APIs ligeras, validación de datos y servicios con Python                               |
+| Arquitectura limpia | Separación de reglas de negocio, casos de uso e infraestructura                        |
+| Microservicios      | División de responsabilidades, comunicación entre servicios y despliegue independiente |
+
+</div>
 
 ---
 
@@ -150,19 +178,20 @@ Actualmente estoy profundizando en herramientas y prácticas orientadas al desar
 
 ---
 
-## Perfil de colaboración
+## Intereses profesionales
 
-Estoy abierto a colaborar en proyectos relacionados con desarrollo backend, frontend, integración de servicios, diseño de APIs, bases de datos y mejora de sistemas existentes.
+Me interesa trabajar en proyectos donde pueda participar en el desarrollo backend, diseño de APIs, integración de servicios, persistencia de datos, construcción frontend y mejora de sistemas existentes.
 
-Mi interés principal está en participar en soluciones donde la calidad técnica, la estructura del código y la evolución del sistema sean factores importantes.
+Mi línea de crecimiento está orientada a fortalecer el dominio de Java, Spring Boot, arquitectura de software, bases de datos, despliegue de aplicaciones y desarrollo de sistemas mantenibles.
 
 ---
 
 <div align="center">
 
-### Contacto
+## Contacto
 
 [![GitHub](https://img.shields.io/badge/GitHub-JhonatanCisne-111827?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/JhonatanCisne)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20Profesional-111827?style=for-the-badge\&logo=linkedin\&logoColor=0A66C2)](#)
+[![Email](https://img.shields.io/badge/Email-Contacto-111827?style=for-the-badge\&logo=gmail\&logoColor=EA4335)](#)
 
 </div>
