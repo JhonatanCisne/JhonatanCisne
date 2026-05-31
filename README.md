@@ -10,15 +10,17 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/cinerosjorgejhonataneduardo">
-  <img height="34" src="https://img.shields.io/badge/LinkedIn-Jhonatan%20Cisneros-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:jhonatanjorge151@gmail.com">
-  <img height="34" src="https://img.shields.io/badge/Email-jhonatanjorge151%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/JhonatanCisne">
-  <img height="34" src="https://img.shields.io/badge/GitHub-JhonatanCisne-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/cinerosjorgejhonataneduardo">
+    <img height="34" src="https://img.shields.io/badge/LinkedIn-Jhonatan%20Cisneros-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<p>
+  <a href="mailto:jhonatanjorge151@gmail.com">
+    <img height="34" src="https://img.shields.io/badge/Email-jhonatanjorge151%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 </div>
 
@@ -171,11 +173,16 @@ Trabajo principalmente con Java, Spring Boot, SQL y tecnologías frontend modern
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/cinerosjorgejhonataneduardo">
-  <img height="34" src="https://img.shields.io/badge/LinkedIn-Jhonatan%20Cisneros-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:jhonatanjorge151@gmail.com">
-  <img height="34" src="https://img.shields.io/badge/Email-jhonatanjorge151%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/cinerosjorgejhonataneduardo">
+    <img height="34" src="https://img.shields.io/badge/LinkedIn-Jhonatan%20Cisneros-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<p>
+  <a href="mailto:jhonatanjorge151@gmail.com">
+    <img height="34" src="https://img.shields.io/badge/Email-jhonatanjorge151%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 </div>
