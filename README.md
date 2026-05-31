@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./assets/banner-dark-landscape.png" alt="Dark landscape banner" />
+<img width="100%" src="./assets/banner-dark-landscape.jpg" alt="Dark landscape banner" />
 
 <br>
 
@@ -93,17 +93,36 @@ Trabajo principalmente con Java, Spring Boot, SQL y tecnologías frontend modern
 
 ## Enfoque técnico
 
-<div align="center">
-
-```text
-Código claro        Estructura mantenible
-APIs REST           Comunicación ordenada
-Bases de datos      Modelos consistentes
-Seguridad           Roles, tokens y validaciones
-Arquitectura        Separación de responsabilidades
-```
-
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Backend</h3>
+      <p align="center">
+        Desarrollo de APIs REST, servicios, validaciones, seguridad y lógica de negocio.
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Datos</h3>
+      <p align="center">
+        Modelado relacional, consultas SQL, persistencia e integridad de información.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Frontend</h3>
+      <p align="center">
+        Interfaces web, consumo de APIs, formularios y componentes reutilizables.
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Arquitectura</h3>
+      <p align="center">
+        Separación de responsabilidades, organización por capas y módulos mantenibles.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
