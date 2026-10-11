@@ -3,7 +3,7 @@
   <img src="./assets/header-dark.png#gh-dark-mode-only" alt="Jhonatan Cisneros — Full Stack Developer" width="100%" />
 </p>
 
-<p align="center">Desarrollo aplicaciones web, APIs y servicios backend.<br />Me interesa crear soluciones funcionales y bien estructuradas.</p>
+<p align="center">Desarrollo aplicaciones web, APIs y servicios backend.</p>
 
 ## Tecnologías
 
