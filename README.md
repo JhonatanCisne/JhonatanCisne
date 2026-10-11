@@ -150,8 +150,14 @@
 
 ## Contacto
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/cinerosjorgejhonataneduardo" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/8E79A8" alt="LinkedIn" width="30" height="30" /></a>
+<a href="https://www.linkedin.com/in/cinerosjorgejhonataneduardo">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+    alt="LinkedIn"
+    width="36"
+    height="36"
+  />
+</a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:jhonatanjorge151@gmail.com" title="Enviar correo"><img src="https://cdn.simpleicons.org/gmail/8E79A8" alt="Correo electrónico" width="30" height="30" /></a>
 </p>
