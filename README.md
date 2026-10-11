@@ -9,59 +9,133 @@
 
 ### Backend
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="126" valign="middle"><img src="./assets/icons/java.png" alt="Java" width="62" height="62" /><br /><sub><strong>Java</strong></sub></td>
-    <td align="center" width="126" valign="middle"><img src="./assets/icons/spring.png" alt="Spring Boot" width="62" height="62" /><br /><sub><strong>Spring Boot</strong></sub></td>
-    <td align="center" width="126" valign="middle"><img src="./assets/icons/spring-security.png" alt="Spring Security" width="62" height="62" /><br /><sub><strong>Spring Security</strong></sub></td>
-    <td align="center" width="126" valign="middle"><img src="./assets/icons/python.png" alt="Python" width="62" height="62" /><br /><sub><strong>Python</strong></sub></td>
+    <td align="center" valign="middle" colspan="3">
+      <img src="./assets/icons/java.png" alt="Java" width="62" height="62" /><br />
+      <strong>Java</strong>
+    </td>
+    <td align="center" valign="middle" colspan="3">
+      <img src="./assets/icons/spring.png" alt="Spring Boot" width="62" height="62" /><br />
+      <strong>Spring Boot</strong>
+    </td>
+    <td align="center" valign="middle" colspan="3">
+      <img src="./assets/icons/spring-security.png" alt="Spring Security" width="62" height="62" /><br />
+      <strong>Spring Security</strong>
+    </td>
+    <td align="center" valign="middle" colspan="3">
+      <img src="./assets/icons/python.png" alt="Python" width="62" height="62" /><br />
+      <strong>Python</strong>
+    </td>
   </tr>
   <tr>
-    <td align="center" width="126" valign="middle"><img src="./assets/icons/fastapi.png" alt="FastAPI" width="62" height="62" /><br /><sub><strong>FastAPI</strong></sub></td>
-    <td align="center" width="126" valign="middle"><img src="./assets/icons/nodejs.png" alt="Node.js" width="62" height="62" /><br /><sub><strong>Node.js</strong></sub></td>
-    <td align="center" width="126" valign="middle"><img src="./assets/icons/nestjs.png" alt="NestJS" width="62" height="62" /><br /><sub><strong>NestJS</strong></sub></td>
+    <td align="center" valign="middle" colspan="4">
+      <img src="./assets/icons/fastapi.png" alt="FastAPI" width="62" height="62" /><br />
+      <strong>FastAPI</strong>
+    </td>
+    <td align="center" valign="middle" colspan="4">
+      <img src="./assets/icons/nodejs.png" alt="Node.js" width="62" height="62" /><br />
+      <strong>Node.js</strong>
+    </td>
+    <td align="center" valign="middle" colspan="4">
+      <img src="./assets/icons/nestjs.png" alt="NestJS" width="62" height="62" /><br />
+      <strong>NestJS</strong>
+    </td>
   </tr>
 </table>
 
 ### Frontend
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="126" valign="middle"><img src="./assets/icons/javascript.png" alt="JavaScript" width="62" height="62" /><br /><sub><strong>JavaScript</strong></sub></td>
-    <td align="center" width="126" valign="middle"><img src="./assets/icons/typescript.png" alt="TypeScript" width="62" height="62" /><br /><sub><strong>TypeScript</strong></sub></td>
-    <td align="center" width="126" valign="middle"><img src="./assets/icons/react.png" alt="React" width="62" height="62" /><br /><sub><strong>React</strong></sub></td>
-    <td align="center" width="126" valign="middle"><img src="./assets/icons/html.png" alt="HTML5" width="62" height="62" /><br /><sub><strong>HTML5</strong></sub></td>
+    <td align="center" valign="middle" colspan="3">
+      <img src="./assets/icons/javascript.png" alt="JavaScript" width="62" height="62" /><br />
+      <strong>JavaScript</strong>
+    </td>
+    <td align="center" valign="middle" colspan="3">
+      <img src="./assets/icons/typescript.png" alt="TypeScript" width="62" height="62" /><br />
+      <strong>TypeScript</strong>
+    </td>
+    <td align="center" valign="middle" colspan="3">
+      <img src="./assets/icons/react.png" alt="React" width="62" height="62" /><br />
+      <strong>React</strong>
+    </td>
+    <td align="center" valign="middle" colspan="3">
+      <img src="./assets/icons/html.png" alt="HTML5" width="62" height="62" /><br />
+      <strong>HTML5</strong>
+    </td>
   </tr>
   <tr>
-    <td align="center" width="126" valign="middle"><img src="./assets/icons/css.png" alt="CSS3" width="62" height="62" /><br /><sub><strong>CSS3</strong></sub></td>
-    <td align="center" width="126" valign="middle"><img src="./assets/icons/flutter.png" alt="Flutter" width="62" height="62" /><br /><sub><strong>Flutter</strong></sub></td>
+    <td colspan="3"></td>
+    <td align="center" valign="middle" colspan="3">
+      <img src="./assets/icons/css.png" alt="CSS3" width="62" height="62" /><br />
+      <strong>CSS3</strong>
+    </td>
+    <td align="center" valign="middle" colspan="3">
+      <img src="./assets/icons/flutter.png" alt="Flutter" width="62" height="62" /><br />
+      <strong>Flutter</strong>
+    </td>
+    <td colspan="3"></td>
   </tr>
 </table>
 
 ### Bases de datos
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="126" valign="middle"><img src="./assets/icons/postgresql.png" alt="PostgreSQL" width="62" height="62" /><br /><sub><strong>PostgreSQL</strong></sub></td>
-    <td align="center" width="126" valign="middle"><img src="./assets/icons/mysql.png" alt="MySQL" width="62" height="62" /><br /><sub><strong>MySQL</strong></sub></td>
-    <td align="center" width="126" valign="middle"><img src="./assets/icons/mongodb.png" alt="MongoDB" width="62" height="62" /><br /><sub><strong>MongoDB</strong></sub></td>
-    <td align="center" width="126" valign="middle"><img src="./assets/icons/redis.png" alt="Redis" width="62" height="62" /><br /><sub><strong>Redis</strong></sub></td>
+    <td align="center" valign="middle" colspan="3">
+      <img src="./assets/icons/postgresql.png" alt="PostgreSQL" width="62" height="62" /><br />
+      <strong>PostgreSQL</strong>
+    </td>
+    <td align="center" valign="middle" colspan="3">
+      <img src="./assets/icons/mysql.png" alt="MySQL" width="62" height="62" /><br />
+      <strong>MySQL</strong>
+    </td>
+    <td align="center" valign="middle" colspan="3">
+      <img src="./assets/icons/mongodb.png" alt="MongoDB" width="62" height="62" /><br />
+      <strong>MongoDB</strong>
+    </td>
+    <td align="center" valign="middle" colspan="3">
+      <img src="./assets/icons/redis.png" alt="Redis" width="62" height="62" /><br />
+      <strong>Redis</strong>
+    </td>
   </tr>
 </table>
 
 ### Herramientas e infraestructura
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="126" valign="middle"><img src="./assets/icons/docker.png" alt="Docker" width="62" height="62" /><br /><sub><strong>Docker</strong></sub></td>
-    <td align="center" width="126" valign="middle"><img src="./assets/icons/git.png" alt="Git" width="62" height="62" /><br /><sub><strong>Git</strong></sub></td>
-    <td align="center" width="126" valign="middle"><img src="./assets/icons/github.png" alt="GitHub" width="62" height="62" /><br /><sub><strong>GitHub</strong></sub></td>
-    <td align="center" width="126" valign="middle"><img src="./assets/icons/linux.png" alt="Linux" width="62" height="62" /><br /><sub><strong>Linux</strong></sub></td>
+    <td align="center" valign="middle" colspan="3">
+      <img src="./assets/icons/docker.png" alt="Docker" width="62" height="62" /><br />
+      <strong>Docker</strong>
+    </td>
+    <td align="center" valign="middle" colspan="3">
+      <img src="./assets/icons/git.png" alt="Git" width="62" height="62" /><br />
+      <strong>Git</strong>
+    </td>
+    <td align="center" valign="middle" colspan="3">
+      <img src="./assets/icons/github.png" alt="GitHub" width="62" height="62" /><br />
+      <strong>GitHub</strong>
+    </td>
+    <td align="center" valign="middle" colspan="3">
+      <img src="./assets/icons/linux.png" alt="Linux" width="62" height="62" /><br />
+      <strong>Linux</strong>
+    </td>
   </tr>
   <tr>
-    <td align="center" width="126" valign="middle"><img src="./assets/icons/nginx.png" alt="Nginx" width="62" height="62" /><br /><sub><strong>Nginx</strong></sub></td>
-    <td align="center" width="126" valign="middle"><img src="./assets/icons/postman.png" alt="Postman" width="62" height="62" /><br /><sub><strong>Postman</strong></sub></td>
-    <td align="center" width="126" valign="middle"><img src="./assets/icons/coolify.png" alt="Coolify" width="62" height="62" /><br /><sub><strong>Coolify</strong></sub></td>
+    <td align="center" valign="middle" colspan="4">
+      <img src="./assets/icons/nginx.png" alt="Nginx" width="62" height="62" /><br />
+      <strong>Nginx</strong>
+    </td>
+    <td align="center" valign="middle" colspan="4">
+      <img src="./assets/icons/postman.png" alt="Postman" width="62" height="62" /><br />
+      <strong>Postman</strong>
+    </td>
+    <td align="center" valign="middle" colspan="4">
+      <img src="./assets/icons/coolify.png" alt="Coolify" width="62" height="62" /><br />
+      <strong>Coolify</strong>
+    </td>
   </tr>
 </table>
 
