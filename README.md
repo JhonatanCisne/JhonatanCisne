@@ -4,7 +4,6 @@
 
 <p align="center">
   ¡Hola! Desarrollo aplicaciones web, APIs y servicios backend.<br />
-  Me gusta construir soluciones claras y cuidar los detalles.
 </p>
 
 ## Tecnologías
