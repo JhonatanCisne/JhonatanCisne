@@ -139,6 +139,19 @@
   </table>
 </div>
 
+## Actividad en GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JhonatanCisne&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=false&amp;bg_color=FFFFFF&amp;title_color=4A3658&amp;text_color=4A3658&amp;icon_color=8E79A8&amp;rank_icon=none&amp;locale=es#gh-light-mode-only" alt="Resumen de actividad de GitHub, tema claro" width="390" />
+  <img src="https://streak-stats.demolab.com/?user=JhonatanCisne&amp;hide_border=true&amp;background=FFFFFF&amp;ring=8E79A8&amp;fire=8E79A8&amp;currStreakLabel=4A3658&amp;sideLabels=4A3658&amp;sideNums=4A3658&amp;dates=8E79A8&amp;stroke=EDE6F5&amp;locale=es#gh-light-mode-only" alt="Racha de contribuciones, tema claro" width="390" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JhonatanCisne&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=false&amp;bg_color=0D1117&amp;title_color=B8A7D2&amp;text_color=E6DDF2&amp;icon_color=B8A7D2&amp;rank_icon=none&amp;locale=es#gh-dark-mode-only" alt="Resumen de actividad de GitHub, tema oscuro" width="390" />
+  <img src="https://streak-stats.demolab.com/?user=JhonatanCisne&amp;hide_border=true&amp;background=0D1117&amp;ring=B8A7D2&amp;fire=B8A7D2&amp;currStreakLabel=B8A7D2&amp;sideLabels=E6DDF2&amp;sideNums=E6DDF2&amp;dates=B8A7D2&amp;stroke=54455E&amp;locale=es#gh-dark-mode-only" alt="Racha de contribuciones, tema oscuro" width="390" />
+</p>
+
 ## Contacto
 
-[GitHub](https://github.com/JhonatanCisne) · [LinkedIn](https://www.linkedin.com/in/cinerosjorgejhonataneduardo) · [Correo](mailto:jhonatanjorge151@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/cinerosjorgejhonataneduardo" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/8E79A8" alt="LinkedIn" width="30" height="30" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:jhonatanjorge151@gmail.com" title="Enviar correo"><img src="https://cdn.simpleicons.org/gmail/8E79A8" alt="Correo electrónico" width="30" height="30" /></a>
+</p>
