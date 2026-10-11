@@ -1,214 +1,142 @@
+<p align="center">
+  <img src="assets/header-cromatico.svg" alt="Jhonatan Cisneros — Full Stack Developer" width="100%" />
+</p>
 
 <div align="center">
 
-<h1>Jhonatan Cisneros</h1>
+**Desarrollo web · Arquitectura de software · SaaS · Integraciones**
 
-<h3>Software Engineer</h3>
+Construyo productos digitales de extremo a extremo: interfaces claras, servicios bien diseñados y soluciones preparadas para desplegarse y mantenerse.
 
-<p>
-  Backend • Software Architecture • SaaS • Integrations
-</p>
-
-<br>
-
-<p>
-  <a href="https://www.linkedin.com/in/cinerosjorgejhonataneduardo">
-    <img height="34" src="https://img.shields.io/badge/LinkedIn-Jhonatan%20Cisneros-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
-<p>
-  <a href="mailto:jhonatanjorge151@gmail.com">
-    <img height="34" src="https://img.shields.io/badge/Email-jhonatanjorge151%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+**Lima, Perú** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/cinerosjorgejhonataneduardo) &nbsp;·&nbsp; [Correo](mailto:jhonatanjorge151@gmail.com)
 
 </div>
 
 ---
 
-## Perfil
+## 01 / Perfil & filosofía
 
-Software Engineer enfocado en el desarrollo de aplicaciones web y soluciones SaaS, con especialización en backend, arquitectura de software e integración de servicios.
+Soy desarrollador **Full Stack** y estudiante de **Ingeniería de Sistemas e Informática**. Participo en el desarrollo de aplicaciones web y productos SaaS, desde el diseño de interfaces y la construcción de APIs hasta el modelado de datos, las integraciones y el despliegue.
 
-Trabajo principalmente con Java y Spring Boot, complementando con Python, Node.js y tecnologías frontend cuando el producto lo requiere. Tengo experiencia participando en el ciclo completo de desarrollo: diseño, implementación, integración y despliegue.
+Mi base técnica más sólida está en **Java y Spring Boot**; la complemento con **TypeScript, React, Angular, Python, FastAPI y Node.js** para construir soluciones completas. También trabajo con bases de datos relacionales y NoSQL, contenedores e infraestructura Linux.
 
----
+Me interesa que el software funcione correctamente **por dentro** y resulte sencillo de usar **por fuera**: decisiones arquitectónicas claras, responsabilidad bien distribuida y atención a la experiencia de usuario.
 
-## Stack principal
+## 02 / Stack tecnológico
 
-<div align="center">
-
-<h3>Backend</h3>
-
-<img height="34" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img height="34" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-<img height="34" src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
-<img height="34" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img height="34" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img height="34" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img height="34" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-
-<h3>Frontend</h3>
-
-<img height="34" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img height="34" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img height="34" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img height="34" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-<img height="34" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img height="34" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-<h3>Mobile</h3>
-
-<img height="34" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img height="34" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-
-<h3>Bases de datos</h3>
-
-<img height="34" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img height="34" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img height="34" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-<img height="34" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-<h3>Infraestructura y herramientas</h3>
-
-<img height="34" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img height="34" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-<img height="34" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img height="34" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img height="34" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img height="34" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img height="34" src="https://img.shields.io/badge/Coolify-6B16ED?style=for-the-badge&logo=coolify&logoColor=white" />
-<img height="34" src="https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black" />
-
-</div>
-
----
-
-## Áreas de trabajo
-
-<div align="center">
-
-| Área | Enfoque |
+| Área | Tecnologías y herramientas |
 | :--- | :--- |
-| Backend | APIs REST, lógica de negocio, seguridad y servicios |
-| Arquitectura | Diseño modular, separación de responsabilidades e integración entre servicios |
-| Bases de datos | Modelado, SQL, persistencia, JSONB y optimización |
-| Integraciones | APIs externas, servicios de IA y plataformas de terceros |
-| Infraestructura | Docker, Nginx, VPS, configuración y despliegue |
-| Frontend | Interfaces web, consumo de APIs y experiencia de usuario |
-| Producto | Soluciones técnicas orientadas a necesidades reales de negocio |
+| **Lenguajes** | Java · TypeScript · JavaScript · Python · Go · Dart · SQL |
+| **Backend** | Spring Boot · Spring Security · FastAPI · Node.js · NestJS · APIs REST |
+| **Frontend** | React · Angular · Vite · HTML5 · CSS3 · Diseño responsive |
+| **Mobile** | Flutter · Dart |
+| **Bases de datos** | PostgreSQL · MySQL · MariaDB · MongoDB · Redis |
+| **Infraestructura** | Docker · Nginx · Linux · VPS · Coolify · HTTPS |
+| **Desarrollo y pruebas** | Git · GitHub · Postman · Integración de servicios |
+| **En profundización** | Jenkins · Terraform · Vault · CI/CD · Infraestructura como código |
 
-</div>
+> Mi enfoque no es utilizar todas las tecnologías en un mismo proyecto, sino seleccionar las que mejor resuelvan el problema y puedan mantenerse con claridad.
 
----
+## 03 / Áreas de especialidad
 
-## Enfoque técnico
+### Frontend y experiencia de usuario
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Backend</h3>
-      <p align="center">
-        APIs REST, lógica de negocio, autenticación, seguridad y comunicación entre servicios.
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Arquitectura</h3>
-      <p align="center">
-        Sistemas modulares, responsabilidades bien definidas y arquitecturas adaptadas a cada producto.
-      </p>
-    </td>
-  </tr>
+- Desarrollo de interfaces con **React, Angular, TypeScript y JavaScript**.
+- Consumo e integración de APIs, manejo de formularios, estados y flujos de usuario.
+- Diseño responsive, jerarquía visual, componentes reutilizables y consistencia de interfaz.
+- Atención a la usabilidad: reducir fricción y traducir procesos complejos en experiencias sencillas.
 
-  <tr>
-    <td width="50%">
-      <h3 align="center">Integraciones</h3>
-      <p align="center">
-        Integración de APIs, servicios externos, plataformas de mensajería y servicios basados en IA.
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Producto</h3>
-      <p align="center">
-        Desarrollo orientado a resolver necesidades reales, considerando tanto tecnología como experiencia de usuario.
-      </p>
-    </td>
-  </tr>
-</table>
+### Backend, seguridad e integraciones
 
----
+- Diseño e implementación de **APIs REST**, servicios y lógica de negocio.
+- **Autenticación y autorización** con Spring Security y JWT; control de acceso y gestión de sesiones.
+- Integración con plataformas externas: **WhatsApp Business**, servicios de IA, SMTP y APIs de terceros.
+- Separación de responsabilidades, validación de datos, comunicación entre servicios y manejo de errores.
+- Diseño de soluciones modulares y **arquitecturas orientadas a servicios (SOA)**.
 
-## Experiencia técnica
+### Datos e infraestructura
 
-- Desarrollo de aplicaciones web y productos SaaS.
-- Diseño e implementación de APIs REST.
-- Arquitecturas modulares y orientadas a servicios.
-- Integración con Meta Business / WhatsApp.
-- Integración de servicios basados en OpenAI.
-- Integraciones con servicios externos como RENIEC, SUNAT y SMTP.
-- Autenticación y autorización con JWT.
-- Caché y manejo de estado con Redis.
-- PostgreSQL y uso de JSONB.
-- Contenedores y entornos con Docker.
-- Reverse proxy y configuración con Nginx.
-- Despliegue y operación de aplicaciones en VPS.
-- Gestión de secretos, HTTPS, CORS y rate limiting.
+- Modelado de datos y consultas SQL con **PostgreSQL, MySQL y MariaDB**.
+- Uso de **JSONB**, documentos en **MongoDB** y estado temporal/caché en **Redis** según el caso.
+- Entornos reproducibles con **Docker**, configuración de **Nginx** y despliegues en VPS Linux.
+- Configuración de HTTPS, variables de entorno y medidas como CORS y limitación de solicitudes.
 
----
+## 04 / Proyectos & experiencia aplicada
 
-## Actualmente fortaleciendo
+### 01 — Plataforma SaaS de automatización conversacional
 
-<div align="center">
+**Producto digital · Mensajería · IA · Integración de servicios**
 
-| Área | Enfoque |
+Trabajo en una solución para pequeños negocios que combina atención por WhatsApp, automatización y asistencia basada en IA.
+
+- Diseño de servicios diferenciados para mensajería y orquestación, reglas de negocio, persistencia y consultas.
+- Integraciones con APIs externas y flujos conversacionales controlados por información del negocio.
+- Gestión de contexto temporal, datos de clientes y procesos como catálogos o solicitudes de atención.
+- Enfoque en operación simple, seguridad y evolución modular del producto.
+
+**Ecosistema del proyecto:** Python, FastAPI, Java, Spring Boot, NestJS, PostgreSQL, Redis y Docker.
+
+### 02 — Sistema de trámites digitales con arquitectura SOA
+
+**Proyecto académico · Servicios desacoplados · Procesos digitales · IA controlada**
+
+Diseño de una solución para digitalizar trámites mediante servicios con responsabilidades definidas y persistencia especializada.
+
+- Flujos que conectan identidad, autenticación, expedientes, documentos, pagos y notificaciones.
+- Orquestación de asistencia con IA sobre **requisitos y reglas previamente definidos**, sin delegarle decisiones normativas arbitrarias.
+- Modelado de información transaccional en PostgreSQL, catálogos/reglas en MongoDB y contexto temporal en Redis.
+- Diseño de contratos, diagramas de arquitectura y secuencias para documentar la comunicación entre componentes.
+
+**Ecosistema del proyecto:** React, TypeScript, Spring Boot, FastAPI, PostgreSQL, MongoDB y Redis.
+
+### 03 — Aplicación SaaS multiempresa y gestión de acceso
+
+**Desarrollo colaborativo · Autenticación · Backend · Despliegue**
+
+Participación en el ciclo completo de una aplicación web multiempresa, desde la implementación y las integraciones hasta su despliegue.
+
+- Desarrollo de lógica de negocio y endpoints con Spring Boot.
+- Autenticación con **JWT**, control de acceso y separación de datos entre organizaciones.
+- Flujos de invitación mediante enlaces únicos, persistencia de invitaciones y validaciones del lado servidor.
+- Integración con frontend y publicación de servicios con Docker en infraestructura VPS.
+
+**Tecnologías utilizadas:** Java, Spring Boot, Spring Security, MySQL, React, Git y Docker.
+
+### 04 — Solución web para servicios y cotizaciones
+
+**Producto web · Frontend · Backend · Diseño centrado en usuarios**
+
+Desarrollo de una experiencia digital para un negocio de servicios, orientada a comunicar su oferta y facilitar solicitudes de cotización.
+
+- Interfaces claras para explorar servicios y contactar al negocio.
+- Estructuración de componentes y flujos de interacción orientados a conversión.
+- Separación entre presentación y servicios backend para permitir evolución independiente.
+
+**Ecosistema del proyecto:** Angular, TypeScript y Java.
+
+## 05 / Mi enfoque de ingeniería
+
+| Principio | Cómo lo aplico |
 | :--- | :--- |
-| Software Architecture | Diseño de sistemas mantenibles y escalables |
-| System Design | Componentes, comunicación, datos y decisiones arquitectónicas |
-| DevOps | Automatización, despliegue y operación de aplicaciones |
-| PostgreSQL | Modelado avanzado, JSONB y rendimiento |
-| Redis | Caché, estado y optimización |
-| UX | Diseño de productos simples y orientados al usuario |
+| **Arquitectura** | Responsabilidades explícitas, modularidad, SOA, diseño de componentes y decisiones justificadas. |
+| **Diseño de sistemas** | Flujos entre servicios, contratos, modelos de datos, diagramas C4 y de secuencia. |
+| **Seguridad** | Autenticación, autorización, validaciones, secretos y protección de endpoints. |
+| **Persistencia** | Selección de SQL, documentos o caché según consistencia, consulta y ciclo de vida de los datos. |
+| **Entrega** | Contenedores, configuración de ambientes, proxies inversos y despliegue de aplicaciones. |
+| **Producto** | Priorización de necesidades reales y experiencia de usuario comprensible y coherente. |
 
-</div>
+## 06 / En lo que sigo profundizando
 
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=JhonatanCisne&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanCisne&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1&hide=html,css" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JhonatanCisne&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" />
-
-</div>
+**Sistemas distribuidos y mensajería orientada a eventos**, **Go**, automatización de despliegues y CI/CD, infraestructura como código con Terraform, observabilidad, rendimiento de bases de datos y diseño avanzado de experiencias digitales.
 
 ---
 
-## Contacto
-
 <div align="center">
 
-<p>
-  <a href="https://www.linkedin.com/in/cinerosjorgejhonataneduardo">
-    <img height="34" src="https://img.shields.io/badge/LinkedIn-Jhonatan%20Cisneros-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+**Tecnología sólida. Experiencias simples. Productos con propósito.**
 
-<p>
-  <a href="mailto:jhonatanjorge151@gmail.com">
-    <img height="34" src="https://img.shields.io/badge/Email-jhonatanjorge151%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+Me interesa colaborar en soluciones donde el diseño del sistema y la experiencia de las personas importen por igual.
+
+[Conversemos por correo](mailto:jhonatanjorge151@gmail.com) &nbsp;·&nbsp; [Conectemos en LinkedIn](https://www.linkedin.com/in/cinerosjorgejhonataneduardo)
 
 </div>
-```
