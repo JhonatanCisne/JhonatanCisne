@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" role="img" aria-label="MongoDB — ilustración Plum Atelier"><title>MongoDB</title>
+<style>path,rect,ellipse,circle,polygon{stroke-linejoin:round}</style>
+<g stroke="#60435A" stroke-width="2.15" stroke-linejoin="round" stroke-linecap="round">
+<path d="M48 10 Q64 28 68 48 Q70 69 50 84 Q29 70 31 48 Q33 27 48 10Z" fill="#E7CCD9"/>
+<path d="M49 19 Q49 53 50 89" fill="none" stroke="#60435A" stroke-width="3" stroke-linecap="round"/>
+<path d="M36 44 Q44 45 49 54 M64 38 Q56 43 49 55" fill="none" stroke="#936B83" stroke-width="2.1"/>
+<path d="M45 88 Q50 95 55 88" fill="none" stroke="#B987A7" stroke-width="2.2"/>
+</g><g><path d="M17 79 Q20 86 28 87" stroke="#B987A7" stroke-width="1.4" fill="none"/><circle cx="84" cy="31" r="2.6" fill="#E7CCD9"/></g>
+</svg>
