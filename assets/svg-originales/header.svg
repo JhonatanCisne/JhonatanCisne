@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+    <rect width="1200" height="220" fill="transparent"/>
+    <path d="M0 28 C90 -8 178 7 177 58 C176 109 94 113 0 92 Z" fill="#F0E8F7" opacity="0.95"/>
+    <path d="M1044 0 C986 36 1011 85 1087 93 C1149 100 1181 115 1200 149 L1200 0 Z" fill="#E5D9F0" opacity="0.95"/>
+    <path d="M64 170 C112 141 148 197 198 170" stroke="#B59ECB" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <path d="M1000 53 C1036 31 1064 61 1094 45" stroke="#B59ECB" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <circle cx="1034" cy="142" r="4" fill="#B59ECB" opacity="0.85"/>
+    <circle cx="1052" cy="153" r="2.8" fill="#B59ECB" opacity="0.75"/>
+    <text x="86" y="102" fill="#4A3658" font-family="Georgia, Times New Roman, serif" font-size="78" font-weight="700" letter-spacing="-1.7">Jhonatan Cisneros.</text>
+    <text x="90" y="144" fill="#8E79A8" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="600">Full Stack Developer</text>
+    <text x="90" y="177" fill="#8E79A8" font-family="Arial, Helvetica, sans-serif" font-size="23">Aplicaciones web, APIs y servicios backend.</text>
+    </svg>
